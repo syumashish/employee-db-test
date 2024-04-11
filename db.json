@@ -10,13 +10,13 @@
     "org_code": "101",
     "org_name": "Corporate Planning",
     "work_status": "",
-    "main_company: "",
+    "main_company: ":"",
     "mail_address": "s_taro@evil.corp",
     "corp_phone": "07039272233",
     "ext_number": 2399,
-    "entry_date": 2000/1/1,
+    "entry_date": "2000/1/1",
     "exit_date": null,
-    "update_date": "2001/1/1",
+    "update_date": "2001/1/1"
   },{
     "id": "1000002",
     "name": "佐藤 水木",
@@ -28,13 +28,13 @@
     "org_code": "100",
     "org_name": "Business Planning",
     "work_status": "",
-    "main_company: "",
+    "main_company: ":"",
     "mail_address": "s_mizuki@evil.corp",
     "corp_phone": "07089092316",
     "ext_number": 5456,
-    "entry_date": 1999/1/1,
+    "entry_date": "1999/1/1",
     "exit_date": null,
-    "update_date": "2010/1/1",
+    "update_date": "2010/1/1"
   },{
     "id": "1000003",
     "name": "岡山　もも",
@@ -46,12 +46,12 @@
     "org_code": "200",
     "org_name": "Supply Team",
     "work_status": "出向",
-    "main_company: "HIS",
+    "main_company": "HIS",
     "mail_address": "o_momo@evil.corp",
     "corp_phone": "0700024988",
     "ext_number": 2110,
-    "entry_date": 2010/1/1,
+    "entry_date": "2010/1/1",
     "exit_date": null,
-    "update_date": "2021/1/1",
+    "update_date": "2021/1/1"
   }]
 }
